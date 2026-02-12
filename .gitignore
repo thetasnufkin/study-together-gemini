@@ -1,0 +1,12 @@
+# 秘密の環境変数ファイル
+.env
+server/.env
+client/.env
+
+# 重たいファイル
+node_modules/
+server/node_modules/
+client/node_modules/
+
+# ビルドファイル
+client/.next/
